@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314406787233",
+    "project_id": "app-1-81255",
+    "storage_bucket": "app-1-81255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314406787233:android:7ba4d41b7fb9cffda538e0",
+        "android_client_info": {
+          "package_name": "com.harshitapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314406787233-d3m320bl4bpn0r14n78o6aqkk4lvu7bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqYE2PvmeTwB6yHsitWyiyFuuMi508dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314406787233-d3m320bl4bpn0r14n78o6aqkk4lvu7bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
